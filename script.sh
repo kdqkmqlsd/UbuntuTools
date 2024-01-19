@@ -44,3 +44,8 @@ sudo apt-get autoremove -y
 sudo apt-get autoclean -y
 
 echo "Installation terminée !"
+
+
+echo " test01"
+
+echo " test02"
